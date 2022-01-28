@@ -65,8 +65,8 @@ npm start
 http://localhost:8080/
 ```
 
-> Note: The implementation have to files with urlDatabase and usersDatabase running in syncronous mode.
-> The app was tested in a Windows10 with a native kernal WSL2.
+> Note: The implementation have two files with urlDatabase and usersDatabase running in syncronous mode.
+> The app was tested in a Windows10 with a native kernel WSL2.
 
 ## License
 
